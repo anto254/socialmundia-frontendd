@@ -1,1 +1,1 @@
-# socialmundia-frontendd
+# socialmundia-frontend
